@@ -1,13 +1,15 @@
 ### Hi there 👋
 
-My name is Luigi (not the green one), I'm from Brazil 🇧🇷 and I love programming 🧑‍💻. I'm studying to be a Software Developer and also studdying electrical engeneering at USP ⚡.
+My name is Luigi (not the green one), I'm from Brazil and I love programming. I'm studying to be a Software Developer and also studdying electrical engeneering at USP.
 
 ### Facts about me:
+- 🥇 I'm really competitive;
+- 🧩 I can spend hours playing logic games;
+- ⚡ I'm able to learn things very fast;
 - 👨‍👩‍👦‍👦 I have four brothers and one sister;
 - 👒 My favorite anime is One Piece;
-- 🥇 I'm really competitive;
-- ⚽ I love playing sports (mainly soccer);
-- 🧩 I can spend hours playing logic games.
+- ⚽ I love playing sports (mainly soccer).
+
 
 
 ##
