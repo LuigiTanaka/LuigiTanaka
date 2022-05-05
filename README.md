@@ -11,7 +11,7 @@ My name is Luigi (not the green one), I'm from Brazil and I love programming. I'
 - ⚽ I love playing sports (mainly soccer).
 
 
-### 📝 GitHub Status
+### GitHub Status
 <div align="left">
   <a href="https://github.com/LuigiTanaka">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LuigiTanaka&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
