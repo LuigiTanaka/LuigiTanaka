@@ -10,7 +10,6 @@ My name is Luigi (not the green one), I'm from Brazil and I love programming. I'
 - 👒 My favorite anime is One Piece;
 - ⚽ I love playing sports (mainly soccer).
 
-##
 
 ### 📝 GitHub Status
 <div align="left">
@@ -19,8 +18,7 @@ My name is Luigi (not the green one), I'm from Brazil and I love programming. I'
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiTanaka&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
-##
-
+  
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
