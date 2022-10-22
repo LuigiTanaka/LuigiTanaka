@@ -1,14 +1,14 @@
-### Hi there 👋
+### Olá 👋
 
-My name is Luigi (not the green one), I'm from Brazil and I love programming. I'm studying to be a Software Developer and also studying electrical engeneering at USP.
+Prazer, me chamo Luigi (não aquele verde do joguinho), moro na cidade de São Paulo e amo aprender coisas novas. No momento estou começando na carreira de desenvolvimento Web além de cursar engenharia elétrica na Escola Politécnica da USP.
 
-### Facts about me:
-- 🥇 I'm really competitive;
-- 🧩 I can spend hours playing logic games;
-- ⚡ I'm able to learn things very fast;
-- 👨‍👩‍👦‍👦 I have four brothers and one sister;
-- 👒 My favorite anime is One Piece;
-- ⚽ I love playing sports (mainly soccer).
+### Algun fatos sobre mim:
+- 🥇 Eu adoro competições;
+- 🧩 Eu consigo passar horas jogando jogos de lógica;
+- ⚡ Eu consigo aprender coisas novas muito rápido;
+- 👨‍👩‍👦‍👦 Eu tenho 4 irmãos e 1 irmã;
+- 👒 Meu anime favorito é One Piece;
+- ⚽ Eu amo praticar esportes, principalmente futsal.
 
 
 ### GitHub Status
@@ -19,7 +19,7 @@ My name is Luigi (not the green one), I'm from Brazil and I love programming. I'
 </div>
 
   
-### Languages and Tools:
+### Linguagens e Ferramentas:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -35,8 +35,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-orig
 
 ##
 
-### How can you contact me?
+### Deseja entrar em contato? 😁
 
 <a href="https://www.instagram.com/tanaka_luigi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:luigi.tanaka12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:luigi.tanaka@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luigi-tanaka/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
