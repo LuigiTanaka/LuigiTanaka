@@ -18,9 +18,10 @@ Prazer, me chamo Luigi (não aquele verde do joguinho), moro na cidade de São P
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiTanaka&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
+<a href="https://wakatime.com/@91cf0707-706b-4661-8a29-cd11bbd4a3c9"><img src="https://wakatime.com/badge/user/15514ff3-6114-4a93-a1ce-60b3597c455c.svg" alt="Total time coded since Mar 22 2022" /></a>
+
   
 ### Linguagens e Ferramentas:
-
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -37,6 +38,5 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-orig
 
 ### Deseja entrar em contato? 😁
 
-<a href="https://www.instagram.com/tanaka_luigi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:luigi.tanaka@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luigi-tanaka/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
