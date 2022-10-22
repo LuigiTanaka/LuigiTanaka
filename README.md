@@ -18,7 +18,7 @@ Prazer, me chamo Luigi (não aquele verde do joguinho), moro na cidade de São P
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiTanaka&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
-<a href="https://wakatime.com/@91cf0707-706b-4661-8a29-cd11bbd4a3c9"><img src="https://wakatime.com/badge/user/15514ff3-6114-4a93-a1ce-60b3597c455c.svg" alt="Total time coded since Mar 22 2022" /></a>
+<a href="https://wakatime.com/@91cf0707-706b-4661-8a29-cd11bbd4a3c9"><img src="https://wakatime.com/badge/user/91cf0707-706b-4661-8a29-cd11bbd4a3c9.svg" alt="Total time coded since Mar 22 2022" /></a>
 
   
 ### Linguagens e Ferramentas:
