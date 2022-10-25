@@ -1,6 +1,6 @@
 ### Olá 👋
 
-Prazer, me chamo Luigi Tanaka, tenho 21 anos, moro na cidade de São Paulo e amo aprender coisas novas. No momento estou começando na carreira de desenvolvimento Web além de cursar engenharia elétrica na Escola Politécnica da USP.
+Prazer, me chamo Luigi Tanaka, tenho 21 anos e amo aprender coisas novas. No momento estou começando na carreira de desenvolvimento Web além de cursar engenharia elétrica na Escola Politécnica da USP.
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/c6/26/13/c62613b9fddd7d5700bd281963dfcdb7.gif" width="400" height="220" />
 
