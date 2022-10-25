@@ -16,8 +16,8 @@ Prazer, me chamo Luigi, tenho 21 anos, moro na cidade de São Paulo e amo aprend
 ### GitHub Status
 <div align="left">
   <a href="https://github.com/LuigiTanaka">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LuigiTanaka&theme=nightowl&count_private=true&show_icons=true&hide_border=true" alt="Luigi's github stats" /> 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiTanaka&layout=compact&langs_count=7&theme=nightowl"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=LuigiTanaka&theme=nightowl&count_private=true&show_icons=true&hide_border=true" alt="Luigi's github stats" /> 
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiTanaka&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
 
 <a href="https://wakatime.com/@91cf0707-706b-4661-8a29-cd11bbd4a3c9"><img src="https://wakatime.com/badge/user/91cf0707-706b-4661-8a29-cd11bbd4a3c9.svg" alt="Total time coded since Mar 22 2022" /></a>
