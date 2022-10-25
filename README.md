@@ -1,6 +1,8 @@
 ### Olá 👋
 
-Prazer, me chamo Luigi (não aquele verde do joguinho), moro na cidade de São Paulo e amo aprender coisas novas. No momento estou começando na carreira de desenvolvimento Web além de cursar engenharia elétrica na Escola Politécnica da USP.
+Prazer, me chamo Luigi Tanaka, tenho 21 anos, moro na cidade de São Paulo e amo aprender coisas novas. No momento estou começando na carreira de desenvolvimento Web além de cursar engenharia elétrica na Escola Politécnica da USP.
+
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/c6/26/13/c62613b9fddd7d5700bd281963dfcdb7.gif" width="400" height="220" />
 
 ### Algun fatos sobre mim:
 - 🥇 Adoro competições;
@@ -49,5 +51,5 @@ Prazer, me chamo Luigi (não aquele verde do joguinho), moro na cidade de São P
 
 ### Deseja entrar em contato? 😁
 
-  <a href = "mailto:luigi.tanaka@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:luigi.tanaka@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luigi-tanaka/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
