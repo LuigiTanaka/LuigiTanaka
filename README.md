@@ -4,7 +4,7 @@ Prazer, me chamo Luigi, tenho 21 anos, moro na cidade de São Paulo e amo aprend
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/c6/26/13/c62613b9fddd7d5700bd281963dfcdb7.gif" width="400" height="200" />
 
-### Algun fatos sobre mim:
+### Alguns fatos sobre mim:
 - 🥇 Adoro competições;
 - 🧩 Consigo passar horas jogando jogos de lógica;
 - ⚡ Aprendo coisas novas muito rápido;
