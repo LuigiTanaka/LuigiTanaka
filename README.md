@@ -1,16 +1,6 @@
 ### Olá 👋
 
-Prazer, me chamo Luigi, tenho 21 anos, moro na cidade de São Paulo e amo aprender coisas novas. No momento estou começando na carreira de desenvolvimento Web além de cursar engenharia elétrica na Escola Politécnica da USP.
-
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/c6/26/13/c62613b9fddd7d5700bd281963dfcdb7.gif" width="400" height="200" />
-
-### Alguns fatos sobre mim:
-- 🥇 Adoro competições;
-- 🧩 Consigo passar horas jogando jogos de lógica;
-- ⚡ Aprendo coisas novas muito rápido;
-- 👨‍👩‍👦‍👦 Tenho 4 irmãos e 1 irmã;
-- 👒 Meu anime favorito é One Piece;
-- ⚽ Amo praticar esportes, principalmente futsal.
 
   
 ### Linguagens e Ferramentas:
@@ -61,3 +51,4 @@ Prazer, me chamo Luigi, tenho 21 anos, moro na cidade de São Paulo e amo aprend
 
   <a href = "mailto:luigi.tanaka@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luigi-tanaka/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
